@@ -1,6 +1,6 @@
 # MvvmExample
 
-* Android MVVM Design Pattern
+* Android MVVM Design Pattern 
 * LiveData
 * ViewModel
 * Retrofit 
