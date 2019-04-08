@@ -3,6 +3,7 @@
 * Android MVVM Design Pattern 
 * LiveData
 * ViewModel
+* DataBinding
 * Retrofit 
 * Singleton Design Pattern 
 
